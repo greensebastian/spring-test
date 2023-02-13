@@ -18,7 +18,6 @@ public class TodoController {
         todos.add(new Todo("Implement repository"));
         todos.add(new Todo("Generate db migration"));
         todos.add(new Todo("Add post and get by id endpoints"));
-        todos.add(new Todo("Add openapi gen"));
         return todos;
     }
     
